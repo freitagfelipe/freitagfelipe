@@ -2,7 +2,7 @@
 
 ### • About me:
 
--My full name is Felipe Rodrigues de Santana Freitag, I'm now 18. I was born in Manaus - AM, but I live in Juazeiro do Norte - CE. I recently graduated from high school and I'm now taking a degree in Software Engineering, expected graduation: June, 2025. After that I intend to graduate in computer science. I'm looking to be a full-stack developer.
+-My full name is Felipe Rodrigues de Santana Freitag, I'm now 18. I was born in Manaus - AM, but I live in Juazeiro do Norte - CE. I recently graduated from high school and I'm now taking a degree in Software Engineering, expected graduation: June, 2025. After that I intend to graduate in Computer Science. I'm looking to be a full-stack developer.
 
 ### • Things I'm currently learning:
 
