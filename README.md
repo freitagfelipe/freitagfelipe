@@ -32,8 +32,7 @@
 <table>
     <tr>
         <td>
-          <img width="400px" align="left" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitagfelipe&hide=html&layout=compact&theme=dracula" />
+          <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitagfelipe&hide=html&layout=compact&theme=dracula" />
         </td>
         <td>
           <img width="480px" align="right" src="https://github-readme-stats.vercel.app/api?username=freitagfelipe&theme=dracula" />
