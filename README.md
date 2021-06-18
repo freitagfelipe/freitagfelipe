@@ -20,7 +20,7 @@
 
 ### • You can see my work on:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freitagfelipe) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/freitagfelipe) <a href="https://www.urionlinejudge.com.br/judge/pt/users/statistics/445972"><img src="https://i.imgur.com/sPDL2fh.png" alt="Uri Online Judge" width="90px" height="28px" style="background-color: #000"></a>
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freitagfelipe) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/freitagfelipe) [![URI Online Judge](https://img.shields.io/badge/-URI-critical?style=for-the-badge)](https://www.urionlinejudge.com.br/judge/en/profile/445972) [![Neps Academy](https://img.shields.io/badge/-Neps%20Academy-blue?style=for-the-badge)](https://neps.academy/user/11254)
 
 ### • How to reach me:
 
