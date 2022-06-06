@@ -1,4 +1,4 @@
-# Hi there, welcome to my github, I'm Felipe Freitag <img src="https://i.imgur.com/u8HivgI.gif" width="30px">
+# Hi there, welcome to my github, I'm Felipe Freitag
 
 ### • About me:
 
