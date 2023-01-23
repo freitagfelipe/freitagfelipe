@@ -1,33 +1,31 @@
-```toml
 title = "About me"
 
-[me]
-name = "Felipe Rodrigues de Santana Freitag"
-age = {{ age }}
-location = "Juazeiro do Norte - CE, Brazil"
-hireable = {{ hireableStatus }}
+[me]<br>
+name = "Felipe Rodrigues de Santana Freitag"<br>
+age = {{ age }}<br>
+location = "Juazeiro do Norte - CE, Brazil"<br>
+hireable = {{ hireableStatus }}<br>
 
-[me.degree]
-finished = false
-course = "Software Engineering"
-university = "Universidade Federal do Ceará"
+[me.degree]<br>
+finished = false<br>
+course = "Software Engineering"<br>
+university = "Universidade Federal do Ceará"<br>
 
-[me.programming]
-learning = ["Rust"]
-knowlegde = ["HTML5", "SASS", "TS", "React", "C/C++", "Python", "SQL"]
+[me.programming]<br>
+learning = ["Rust"]<br>
+knowlegde = ["HTML5", "SASS", "TS", "React", "C/C++", "Python", "SQL"]<br>
 
-[me.competitive_programming]
-beecrowd = "[FelipeFreitag](https://www.beecrowd.com.br/judge/en/profile/445972)"
-neps = "[Felipe Freitag](https://neps.academy/user/11254)"
-codeforces = "[felipefreitag](https://codeforces.com/profile/felipefreitag)"
+[me.competitive_programming]<br>
+beecrowd = "[FelipeFreitag](https://www.beecrowd.com.br/judge/en/profile/445972)"<br>
+neps = "[Felipe Freitag](https://neps.academy/user/11254)"<br>
+codeforces = "[felipefreitag](https://codeforces.com/profile/felipefreitag)"<br>
 
-[me.contacts]
-email = "[felipefreitag08@hotmail.com](mailto:felipefreitag08@hotmail.com)"
-linkedin = "[Felipe Freitag](https://www.linkedin.com/in/felipe-freitag-b7b177227)"
-instagram = "[felipefreitag.c](https://www.instagram.com/felipefreitag.c)"
-telegram = "[felipefreitag](https://t.me/felipefreitag)"
+[me.contacts]<br>
+email = "[felipefreitag08@hotmail.com](mailto:felipefreitag08@hotmail.com)"<br>
+linkedin = "[Felipe Freitag](https://www.linkedin.com/in/felipe-freitag-b7b177227)"<br>
+instagram = "[felipefreitag.c](https://www.instagram.com/felipefreitag.c)"<br>
+telegram = "[felipefreitag](https://t.me/felipefreitag)"<br>
 
-[me.others]
-repositories_count = {{ repositoriesCount }}
-starred_count = {{ starredCount }}
-```
+[me.others]<br>
+repositories_count = {{ repositoriesCount }}<br>
+starred_count = {{ starredCount }}<br>
