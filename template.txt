@@ -14,7 +14,7 @@ university = "Universidade Federal do Ceará"
 
 [me.programming]
 learning = ["Rust"]
-knowlegde = ["HTML5", "SASS", "TS", "React", "C/C++", "Python", "SQL"]
+knowledge = ["HTML5", "SASS", "TS", "React", "C/C++", "Python", "SQL"]
 
 [me.competitive_programming]
 beecrowd = "<a href="https://www.beecrowd.com.br/judge/en/profile/445972">FelipeFreitag</a>"
