@@ -29,5 +29,5 @@ telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
 [me.others]
 repositories_count = 15
-starred_count = 14
+starred_count = 16
 </pre>
