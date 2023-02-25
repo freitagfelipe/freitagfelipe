@@ -27,7 +27,11 @@ linkedin = "<a href="https://www.linkedin.com/in/felipe-freitag-b7b177227">Felip
 instagram = "<a href="https://www.instagram.com/felipefreitag.c">felipefreitag.c</a>"
 telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
-[me.others]
-repositories_count = {{ repositoriesCount }}
-starred_count = {{ starredCount }}
+[me.github_stats]
+total_repositories = {{ totalRepositories }}
+total_stars_earned = {{ starsEarned }}
+total_commits = {{ totalCommits }}
+total_pull_requests = {{ totalPullRequests }}
+total_issues = {{ totalIssues }}
+most_used_languages = [{{ mostUsedLanguages }}]
 </pre>
