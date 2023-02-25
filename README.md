@@ -27,7 +27,11 @@ linkedin = "<a href="https://www.linkedin.com/in/felipe-freitag-b7b177227">Felip
 instagram = "<a href="https://www.instagram.com/felipefreitag.c">felipefreitag.c</a>"
 telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
-[me.others]
-repositories_count = 15
-starred_count = 16
+[me.github_stats]
+total_repositories = 15
+total_stars_earned = 11
+total_commits = 674
+total_pull_requests = 157
+total_issues = 4
+most_used_languages = [C++, JavaScript, Rust, Lua, SCSS]
 </pre>
