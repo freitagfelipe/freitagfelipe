@@ -14,7 +14,7 @@ university = "Universidade Federal do Ceará"
 
 [me.programming]
 learning = ["Rust"]
-knowledge = ["HTML5", "SASS", "TS", "React", "C/C++", "Python", "SQL"]
+knowledge = ["Git", "HTML5", "SASS", "TS", "React", "C/C++", "Python", "SQL"]
 
 [me.competitive_programming]
 beecrowd = "<a href="https://www.beecrowd.com.br/judge/en/profile/445972">FelipeFreitag</a>"
@@ -30,8 +30,17 @@ telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 [me.github_stats]
 total_repositories = 15
 total_stars_earned = 11
-total_commits = 678
-total_pull_requests = 157
+total_commits = 682
+total_pull_requests = 159
 total_issues = 4
-most_used_languages = [C++, JavaScript, Rust, Lua, SCSS]
+most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;Lua&quot;, &quot;SCSS"]
+
+[me.dev_enviroment]
+os = "Pop!_OS"
+motherboard = "GIGABYTE H310M M.2"
+memory = "2x 8GB ddr4 2666MHz"
+cpu = "Intel i5-8600"
+gpu = "NVIDIA GeForce GTX 1050 Ti"
+text_editor = ["vscode", "neovim"]
+shell = "zsh"
 </pre>
