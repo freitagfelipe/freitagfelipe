@@ -54,7 +54,7 @@ async function getMostUsedLanguages() {
         .toArray()
         .map((el) => $(el).text().trim());
 
-    return languages.join(", ");
+    return languages.join("\", \"");
 }
 
 const PATH = "./template.txt";
