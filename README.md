@@ -29,11 +29,11 @@ telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
 [me.github_stats]
 total_repositories = 18
-total_stars_earned = 
-total_commits = 
-total_pull_requests = 
-total_issues = 
-most_used_languages = [""]
+total_stars_earned = 12
+total_commits = 827
+total_pull_requests = 180
+total_issues = 4
+most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;SCSS&quot;, &quot;Lua"]
 
 [me.dev_enviroment]
 os = "Pop!_OS"
