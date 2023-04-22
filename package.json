@@ -1,24 +1,25 @@
 {
     "name": "freitagfelipe",
     "version": "1.0.0",
+    "private": true,
     "description": "Personal README",
-    "main": "index.js",
+    "author": "freitagfelipe",
+    "license": "MIT",
     "type": "module",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/freitagfelipe/freitagfelipe.git"
+    },
+    "bugs": {
+        "url": "https://github.com/freitagfelipe/freitagfelipe/issues"
+    },
+    "homepage": "https://github.com/freitagfelipe/freitagfelipe#readme",
     "scripts": {
         "start": "node index.js",
         "test": "echo \"Error: no test specified\" && exit 1",
         "prettier": "npx prettier --write \"**/*.{js,json}\""
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/freitagfelipe/freitagfelipe.git"
-    },
-    "author": "freitagfelipe",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/freitagfelipe/freitagfelipe/issues"
-    },
-    "homepage": "https://github.com/freitagfelipe/freitagfelipe#readme",
     "dependencies": {
         "axios": "^1.2.3",
         "cheerio": "^1.0.0-rc.12",
