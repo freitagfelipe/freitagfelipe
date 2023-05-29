@@ -38,10 +38,10 @@ async function getGithubStats() {
         .map((el) => $(el).text().trim());
 
     return {
-        starsEarned: githubStats[1],
-        totalCommits: githubStats[2],
-        totalPullRequests: githubStats[3],
-        totalIssues: githubStats[4],
+        starsEarned: githubStats[2],
+        totalCommits: githubStats[3],
+        totalPullRequests: githubStats[4],
+        totalIssues: githubStats[5],
     };
 }
 
