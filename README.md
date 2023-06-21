@@ -30,10 +30,10 @@ telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 [me.github_stats]
 total_repositories = 18
 total_stars_earned = 12
-total_commits = 1k
+total_commits = 726
 total_pull_requests = 189
 total_issues = 4
-most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;SCSS&quot;, &quot;Lua"]
+most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;SCSS&quot;, &quot;Lua&quot;, &quot;TypeScript"]
 
 [me.dev_enviroment]
 os = "Pop!_OS"
