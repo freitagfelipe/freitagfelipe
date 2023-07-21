@@ -28,12 +28,12 @@ instagram = "<a href="https://www.instagram.com/felipefreitag_">felipefreitag.c<
 telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
 [me.github_stats]
-total_repositories = 18
-total_stars_earned = 12
-total_commits = 726
-total_pull_requests = 189
+total_repositories = 22
+total_stars_earned = 16
+total_commits = 958
+total_pull_requests = 191
 total_issues = 4
-most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;SCSS&quot;, &quot;Lua&quot;, &quot;TypeScript"]
+most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;Python&quot;, &quot;SCSS&quot;, &quot;Lua"]
 
 [me.dev_enviroment]
 os = "Pop!_OS"
