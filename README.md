@@ -24,13 +24,13 @@ codeforces = "<a href="https://codeforces.com/profile/felipefreitag">felipefreit
 [me.contacts]
 email = "<a href="mailto:felipefreitag08@hotmail.com">felipefreitag08@hotmail.com</a>"
 linkedin = "<a href="https://www.linkedin.com/in/felipe-freitag-b7b177227">Felipe Freitag</a>"
-instagram = "<a href="https://www.instagram.com/felipefreitag_">felipefreitag.c</a>"
+instagram = "<a href="https://www.instagram.com/felipefreitag_">felipefreitag_</a>"
 telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
 [me.github_stats]
 total_repositories = 22
 total_stars_earned = 16
-total_commits = 958
+total_commits = 940
 total_pull_requests = 191
 total_issues = 4
 most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;Python&quot;, &quot;SCSS&quot;, &quot;Lua"]
