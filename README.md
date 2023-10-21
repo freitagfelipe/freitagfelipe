@@ -3,7 +3,7 @@ title = "About me"
 
 [me]
 name = "Felipe Rodrigues de Santana Freitag"
-age = 20
+age = 21
 location = "Juazeiro do Norte - CE, Brazil"
 hireable = true
 
@@ -30,8 +30,8 @@ telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 [me.github_stats]
 total_repositories = 22
 total_stars_earned = 16
-total_commits = 903
-total_pull_requests = 174
+total_commits = 1.1k
+total_pull_requests = 176
 total_issues = 4
 most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;Python&quot;, &quot;SCSS&quot;, &quot;TypeScript"]
 
