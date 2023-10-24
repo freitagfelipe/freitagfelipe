@@ -30,7 +30,7 @@ async function getTotalRepositories() {
 
 async function getGithubStats() {
     const URL =
-        "https://github-readme-stats.vercel.app/api?username=freitagfelipe&count_private=true";
+        "https://github-readme-stats.vercel.app/api?username=freitagfelipe&include_all_commits=true";
     const result = await axios.get(URL);
     const $ = cheerio.load(result.data);
     const githubStats = $("text[data-testid]")
