@@ -28,8 +28,8 @@ instagram = "<a href="https://www.instagram.com/felipefreitag_">felipefreitag_</
 telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
 [me.github_stats]
-total_repositories = 23
-total_stars_earned = 16
+total_repositories = 24
+total_stars_earned = 17
 total_commits = 1.9k
 total_pull_requests = 176
 total_issues = 4
