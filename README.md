@@ -29,9 +29,9 @@ telegram = "<a href="https://t.me/felipefreitag">felipefreitag</a>"
 
 [me.github_stats]
 total_repositories = 25
-total_stars_earned = 18
+total_stars_earned = 16
 total_commits = 2.1k
-total_pull_requests = 176
+total_pull_requests = 177
 total_issues = 4
 most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;Python&quot;, &quot;SCSS&quot;, &quot;Java"]
 
