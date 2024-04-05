@@ -19,7 +19,7 @@ function getAge() {
 async function getHireableStatus() {
     const result = await axios.get(`${API_URL}`);
 
-    return result.data.hireable;
+    return result.data.hireable || false;
 }
 
 async function getTotalRepositories() {
