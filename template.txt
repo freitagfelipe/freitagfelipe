@@ -5,7 +5,6 @@ title = "About me"
 name = "Felipe Rodrigues de Santana Freitag"
 age = {{ age }}
 location = "Juazeiro do Norte - CE, Brazil"
-hireable = {{ hireableStatus }}
 
 [me.degree]
 finished = false

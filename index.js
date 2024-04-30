@@ -16,12 +16,6 @@ function getAge() {
     return date.getUTCFullYear() - 1970;
 }
 
-async function getHireableStatus() {
-    const result = await axios.get(`${API_URL}`);
-
-    return result.data.hireable || false;
-}
-
 async function getTotalRepositories() {
     const result = await axios.get(`${API_URL}`);
 
@@ -62,7 +56,6 @@ const PATH = "./template.txt";
 const content = readFileSync(PATH, "utf-8");
 
 const age = getAge();
-const hireableStatus = await getHireableStatus();
 const totalRepositories = await getTotalRepositories();
 const { starsEarned, totalCommits, totalPullRequests, totalIssues } =
     await getGithubStats();
@@ -70,7 +63,6 @@ const mostUsedLanguages = await getMostUsedLanguages();
 
 const README = mustache.render(content, {
     age,
-    hireableStatus,
     totalRepositories,
     starsEarned,
     totalCommits,
