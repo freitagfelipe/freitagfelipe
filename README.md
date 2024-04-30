@@ -5,7 +5,6 @@ title = "About me"
 name = "Felipe Rodrigues de Santana Freitag"
 age = 21
 location = "Juazeiro do Norte - CE, Brazil"
-hireable = false
 
 [me.degree]
 finished = false
