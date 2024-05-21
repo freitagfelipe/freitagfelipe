@@ -16,7 +16,7 @@ email = "<a href="mailto:felipefreitag.dev@gmail.com">felipefreitag.dev@gmail.co
 linkedin = "<a href="www.linkedin.com/in/freitagfelipe">Felipe Freitag</a>"
 
 [me.github_stats]
-total_repositories = 31
+total_repositories = 32
 total_stars_earned = 16
 total_commits = 2.1k
 total_pull_requests = 177
