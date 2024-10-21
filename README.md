@@ -3,7 +3,7 @@ title = "About me"
 
 [me]
 name = "Felipe Rodrigues de Santana Freitag"
-age = 21
+age = 22
 location = "Juazeiro do Norte - CE, Brazil"
 
 [me.degree]
