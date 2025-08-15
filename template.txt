@@ -7,7 +7,7 @@ age = {{ age }}
 location = "Juazeiro do Norte - CE, Brazil"
 
 [me.degree]
-finished = false
+finished = true
 course = "Software Engineering"
 university = "Federal University of Ceará"
 
