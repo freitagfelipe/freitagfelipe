@@ -3,7 +3,7 @@ title = "About me"
 
 [me]
 name = "Felipe Rodrigues de Santana Freitag"
-age = 22
+age = 23
 location = "Juazeiro do Norte - CE, Brazil"
 
 [me.degree]
@@ -17,7 +17,7 @@ linkedin = "<a href="www.linkedin.com/in/freitagfelipe">Felipe Freitag</a>"
 
 [me.github_stats]
 total_repositories = 33
-total_stars_earned = 19
+total_stars_earned = 20
 total_commits = 2.2k
 total_pull_requests = 177
 total_issues = 4
