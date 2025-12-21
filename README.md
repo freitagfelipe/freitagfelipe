@@ -17,9 +17,9 @@ linkedin = "<a href="www.linkedin.com/in/freitagfelipe">Felipe Freitag</a>"
 
 [me.github_stats]
 total_repositories = 33
-total_stars_earned = 20
-total_commits = 2.2k
-total_pull_requests = 177
-total_issues = 4
+total_stars_earned = 
+total_commits = 
+total_pull_requests = 
+total_issues = 
 most_used_languages = ["C++&quot;, &quot;JavaScript&quot;, &quot;Rust&quot;, &quot;Python&quot;, &quot;SCSS&quot;, &quot;Java"]
 </pre>
